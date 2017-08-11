@@ -1,0 +1,4 @@
+﻿  doCanny.cpp
+f:\visual studio 2017 project\learningopencv_code\ch2_ex2_6\docanny.cpp(28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  ch2_ex2_6.vcxproj -> F:\visual studio 2017 project\LearningOpenCV_Code\x64\Debug\ch2_ex2_6.exe
+  ch2_ex2_6.vcxproj -> F:\visual studio 2017 project\LearningOpenCV_Code\x64\Debug\ch2_ex2_6.pdb (Partial PDB)

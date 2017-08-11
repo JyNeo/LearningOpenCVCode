@@ -1,0 +1,4 @@
+﻿  doPyrDown_Canny.cpp
+f:\visual studio 2017 project\learningopencv_code\ch2_ex2_8\dopyrdown_canny.cpp(22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  ch2_ex2_8.vcxproj -> F:\visual studio 2017 project\LearningOpenCV_Code\x64\Debug\ch2_ex2_8.exe
+  ch2_ex2_8.vcxproj -> F:\visual studio 2017 project\LearningOpenCV_Code\x64\Debug\ch2_ex2_8.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  ch2_ex2_7.cpp
+f:\visual studio 2017 project\learningopencv_code\ch2_ex2_7\ch2_ex2_7.cpp(22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  ch2_ex2_7.vcxproj -> F:\visual studio 2017 project\LearningOpenCV_Code\x64\Debug\ch2_ex2_7.exe
+  ch2_ex2_7.vcxproj -> F:\visual studio 2017 project\LearningOpenCV_Code\x64\Debug\ch2_ex2_7.pdb (Partial PDB)
