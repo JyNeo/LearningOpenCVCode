@@ -1,0 +1,4 @@
+﻿  doCvSave.cpp
+f:\visual studio 2017 project\learningopencv_code\ch3_ex3_15\docvsave.cpp(16): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ch3_ex3_15.vcxproj -> F:\visual studio 2017 project\LearningOpenCV_Code\x64\Debug\ch3_ex3_15.exe
+  ch3_ex3_15.vcxproj -> F:\visual studio 2017 project\LearningOpenCV_Code\x64\Debug\ch3_ex3_15.pdb (Partial PDB)

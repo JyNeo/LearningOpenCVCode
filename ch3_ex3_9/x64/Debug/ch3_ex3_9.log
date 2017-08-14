@@ -1,0 +1,6 @@
+﻿  Source.cpp
+f:\opencv\opencv-2.4.10\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+f:\visual studio 2017 project\learningopencv_code\ch3_ex3_9\source.cpp(27): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ch3_ex3_9.vcxproj -> F:\visual studio 2017 project\LearningOpenCV_Code\x64\Debug\ch3_ex3_9.exe
+  ch3_ex3_9.vcxproj -> F:\visual studio 2017 project\LearningOpenCV_Code\x64\Debug\ch3_ex3_9.pdb (Partial PDB)

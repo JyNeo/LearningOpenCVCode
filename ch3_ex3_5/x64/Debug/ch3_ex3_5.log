@@ -1,0 +1,4 @@
+﻿  doSetMat.cpp
+f:\visual studio 2017 project\learningopencv_code\ch3_ex3_5\dosetmat.cpp(15): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ch3_ex3_5.vcxproj -> F:\visual studio 2017 project\LearningOpenCV_Code\x64\Debug\ch3_ex3_5.exe
+  ch3_ex3_5.vcxproj -> F:\visual studio 2017 project\LearningOpenCV_Code\x64\Debug\ch3_ex3_5.pdb (Partial PDB)
